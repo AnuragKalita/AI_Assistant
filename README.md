@@ -1,5 +1,5 @@
 # AI_Assistant
-Artificial Assistant for testing &amp; learning purpose.
+Artificial Assistant &amp;
 # Can do
 1. Play music
 2. Tell the time
