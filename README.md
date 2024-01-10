@@ -1,5 +1,5 @@
 # AI_Assistant
-Artificial Assistant &amp;
+Artificial Assistant
 # Can do
 1. Play music
 2. Tell the time
